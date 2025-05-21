@@ -34,13 +34,14 @@
   background-color: #2F3E51;
   height: calc(100vh - 100px);
   padding: 0 20px;
-  overflow: scroll;
+  overflow: auto;
 }
 
 .room {
   padding: 20px 0 40px;
 }
-.room-index a{
+
+.room-name a{
   color: white;
   text-decoration: none;
 }
