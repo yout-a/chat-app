@@ -40,7 +40,8 @@
 .room {
   padding: 20px 0 40px;
 }
-.room-index a{
+
+.room-name a{
   color: white;
   text-decoration: none;
 }
